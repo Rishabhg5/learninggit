@@ -1,0 +1,2 @@
+# learninggit
+im learning git
